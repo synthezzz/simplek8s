@@ -7,6 +7,6 @@ metadata:
 spec:
   containers:
   - name: client
-    image: synthezzz/frontend
+    image: synthezzz/fibcalc-client
     ports:
       - containerPort: 3000
